@@ -1,4 +1,4 @@
-Install itu package package PAKE VENV
+Install itu package package PAKE VENV  
 Package:
 - pytest
 - pytest-cov
